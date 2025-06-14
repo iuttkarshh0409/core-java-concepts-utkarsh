@@ -1,4 +1,4 @@
-🔧 Core Java Concepts Utkarsh A beginner-friendly, well-structured repository containing core Java concepts, created and maintained by Utkarsh Dubey. This repo serves as a personal learning log and resource hub for anyone exploring Java fundamentals with hands-on implementation.
+🔧 Core Java Concepts Utkarsh:  A beginner-friendly, well-structured repository containing core Java concepts, created and maintained by Utkarsh Dubey. This repo serves as a personal learning log and resource hub for anyone exploring Java fundamentals with hands-on implementation.
 
 📁 Table of Contents
 
