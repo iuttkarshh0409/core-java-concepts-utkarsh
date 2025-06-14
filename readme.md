@@ -84,7 +84,7 @@ Please ensure your Java code is well-commented and follows standard Java naming 
 📨 Contact For questions or suggestions, feel free to reach out:
 
 💻 GitHub: [iuttkarshh0409](https://github.com/iuttkarshh0409)\
-📧 Email: [utkarsh.dubey@example.com](mailto\:dubeyutkarsh101@gmail.com)
+📧 Email: [dubeyutkarsh101@gmail.com](mailto\:dubeyutkarsh101@gmail.com)
 
 Thank you for exploring Utkarsh's Core Java Concepts! Happy coding! 🎉
 
